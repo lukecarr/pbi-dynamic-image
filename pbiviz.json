@@ -9,7 +9,7 @@
     "supportUrl": "https://github.com/lukecarr/pbi-dynamic-image/issues",
     "gitHubUrl": "https://github.com/lukecarr/pbi-dynamic-image"
   },
-  "apiVersion": "3.8.0",
+  "apiVersion": "4.2.0",
   "author": {
     "name": "Luke Carr",
     "email": "me+oss@carr.sh"
