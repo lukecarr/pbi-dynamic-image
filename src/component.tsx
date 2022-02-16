@@ -8,7 +8,7 @@ export type State = {
 const Component: FunctionComponent<State> = ({ src }) => {
     return (
         <div className="image-visual" style={{
-            backgroundImage: `url(${src})`,
+            backgroundImage: `url("${CSS.escape(src)}")`,
         }} />
     )
 };
