@@ -4,7 +4,7 @@
     "displayName": "Dynamic Image",
     "guid": "dynamicImageD14ACE1A790544449691A908CE716398",
     "visualClassName": "Visual",
-    "version": "1.0.0",
+    "version": "1.0.0-rc.1",
     "description": "Renders an image with a dynamic source.",
     "supportUrl": "https://github.com/lukecarr/pbi-dynamic-image/issues",
     "gitHubUrl": "https://github.com/lukecarr/pbi-dynamic-image"

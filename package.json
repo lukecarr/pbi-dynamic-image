@@ -1,5 +1,6 @@
 {
-  "name": "pbi-dynamic-image",
+  "name": "@lukecarr/pbi-dynamic-image",
+  "version": "1.0.0-rc.1",
   "private": true,
   "scripts": {
     "pbiviz": "pbiviz",
@@ -8,8 +9,6 @@
     "lint": "tslint -c tslint.json -p tsconfig.json"
   },
   "dependencies": {
-    "@types/d3": "5.7.2",
-    "d3": "5.12.0",
     "powerbi-visuals-api": "4.2.0",
     "powerbi-visuals-utils-dataviewutils": "2.4.1",
     "react": "17.0.2",
