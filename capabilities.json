@@ -6,7 +6,48 @@
             "kind": "Measure"
         }
     ],
-    "objects": {},
+    "objects": {
+        "a11y": {
+            "displayName": "Accessibility",
+            "properties": {
+                "alt": {
+                    "displayName": "Alternate Text",
+                    "type": {
+                        "text": true
+                    }
+                }
+            }
+        },
+        "padding": {
+            "displayName": "Padding",
+            "properties": {
+                "left": {
+                    "displayName": "Left",
+                    "type": {
+                        "numeric": true
+                    }
+                },
+                "right": {
+                    "displayName": "Right",
+                    "type": {
+                        "numeric": true
+                    }
+                },
+                "top": {
+                    "displayName": "Top",
+                    "type": {
+                        "numeric": true
+                    }
+                },
+                "bottom": {
+                    "displayName": "Bottom",
+                    "type": {
+                        "numeric": true
+                    }
+                }
+            }
+        }
+    },
     "dataViewMappings": [
         {
             "conditions": [
