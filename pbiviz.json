@@ -1,0 +1,25 @@
+{
+  "visual": {
+    "name": "dynamicImage",
+    "displayName": "Dynamic Image",
+    "guid": "dynamicImageD14ACE1A790544449691A908CE716398",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "Renders an image with a dynamic source.",
+    "supportUrl": "https://github.com/lukecarr/pbi-dynamic-image/issues",
+    "gitHubUrl": "https://github.com/lukecarr/pbi-dynamic-image"
+  },
+  "apiVersion": "3.8.0",
+  "author": {
+    "name": "Luke Carr",
+    "email": "me+oss@carr.sh"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": null,
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
