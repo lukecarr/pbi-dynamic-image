@@ -7,3 +7,4 @@
 * 💪 **Simple and lightweight.** Dynamic Image is a visual for Power BI with support for dynamic image sources!
 * 📸 **Many image formats.** JPEG, PNG, GIF (incl. animated), and SVG are all supported out-of-the-box!
 * 🆓 **Entirely free and open-source.** Dynamic Image is licensed under the [MIT License](LICENSE)!
+* 🛠 **Configurable.** Support custom padding (margin around image).
