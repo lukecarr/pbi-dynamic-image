@@ -331,10 +331,10 @@ picomatch@^2.2.3:
   resolved "https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz"
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
 
-powerbi-visuals-api@4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/powerbi-visuals-api/-/powerbi-visuals-api-4.2.0.tgz#32b4f675f3c4c3adba61e800d46e9efc6ac3665f"
-  integrity sha512-qIfPC5pSwEeWeyeOTLOCBzjAmVwV/aJrBGA4aCcf7yoSh8Bojm92/TkdKQoVSBYssBtxZ7mIViE/UXPocY+xyA==
+powerbi-visuals-api@4.7.0:
+  version "4.7.0"
+  resolved "https://registry.yarnpkg.com/powerbi-visuals-api/-/powerbi-visuals-api-4.7.0.tgz#127adfed98ecadfad7e7c653b11efc8e0a5f6f92"
+  integrity sha512-Gyha3jkwXixUv0PVd+bSbZR/yGx3xL5IzHE9h0F4snVC7DyAWnGRCIejJgTGUfKyqcVQZjpRerBWxbrGB6Edlw==
   dependencies:
     semver "^7.3.5"
 
