@@ -331,12 +331,12 @@ picomatch@^2.2.3:
   resolved "https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz"
   integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
 
-powerbi-visuals-api@4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/powerbi-visuals-api/-/powerbi-visuals-api-4.2.0.tgz#32b4f675f3c4c3adba61e800d46e9efc6ac3665f"
-  integrity sha512-qIfPC5pSwEeWeyeOTLOCBzjAmVwV/aJrBGA4aCcf7yoSh8Bojm92/TkdKQoVSBYssBtxZ7mIViE/UXPocY+xyA==
+powerbi-visuals-api@5.9.0:
+  version "5.9.0"
+  resolved "https://registry.yarnpkg.com/powerbi-visuals-api/-/powerbi-visuals-api-5.9.0.tgz#b1ff89120de5383661623817f938ba05488963c8"
+  integrity sha512-i7GLJOr2gNvdvHuGqTt+ktBVuRcrduoJMIG94avCba/iPEo2pHGqbdESfsV85UALwZA+6lTKfOnwn83lDh0rCA==
   dependencies:
-    semver "^7.3.5"
+    semver "^7.6.0"
 
 powerbi-visuals-utils-dataviewutils@2.4.1:
   version "2.4.1"
@@ -382,10 +382,17 @@ semver@^5.3.0:
   resolved "https://registry.npmjs.org/semver/-/semver-5.7.1.tgz"
   integrity sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==
 
-semver@^7.3.4, semver@^7.3.5:
+semver@^7.3.4:
   version "7.3.5"
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.3.5.tgz#0b621c879348d8998e4b0e4be94b3f12e6018ef7"
   integrity sha512-PoeGJYh8HK4BTO/a9Tf6ZG3veo/A7ZVsYrSA6J8ny9nb3B1VrpkuN+z9OE5wfE5p6H4LchYZsegiQgbJD94ZFQ==
+  dependencies:
+    lru-cache "^6.0.0"
+
+semver@^7.6.0:
+  version "7.6.0"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.6.0.tgz#1a46a4db4bffcccd97b743b5005c8325f23d4e2d"
+  integrity sha512-EnwXhrlwXMk9gKu5/flx5sv/an57AkRplG3hTK68W7FRDN+k+OWBj65M7719OkA82XLBxrcX0KSHj+X5COhOVg==
   dependencies:
     lru-cache "^6.0.0"
 
